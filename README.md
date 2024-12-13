@@ -1,4 +1,5 @@
 ![Rif: J-08507040-0](logo.png "Aproscello")
+
 Rif: J-08507040-0
 
 ------------------------------------------------------------------------
@@ -19,11 +20,11 @@ Rif: J-08507040-0
 
 ## Características de la nueva variedad de arroz y su referencial de manejo agronómico.
 
-Les presentamos a todos los productores de arroz de Venezuela nuestra nueva variedad de arroz ***SUPREMA FL*** la cual presentan características interesantes que la diferencia del resto de las variedades comerciales que están disponibles en mercado.
+Les presentamos a todos los productores de arroz de Venezuela nuestra nueva variedad de arroz ***SUPREMA FL*** la cual presenta características interesantes que la diferencia del resto de las variedades comerciales que están disponibles en mercado.
 
 La variedad ***SUPREMA FL***, proviene del cruce de FL05512-7P-6-1P/FL02066-4P-1-1P-2P-M-1P-M-M-M-F11//FL04574-1P-4-3P-1P-M y tiene por *Pedigree FL08310-4P-1-3P-3P-M-2PY-M*.
 
-Fue obtenida en el ***Fondo Latinoamericano de Arroz de Riego*** (FLAR) durante las generaciones segregantes F2 a F5; luego fue seleccionada y desarrollada la fitomejoradora Ing. ***Yubiry Mujica*** en el programa de mejoramiento de la ***Asociación de Productores de Semilla Certificada de los Llanos Occidentales*** (APROSCELLO) con el apoyo de la ***Fundación Nacional del Arroz*** (FUNDARROZ).
+Fue obtenida en el ***Fondo Latinoamericano de Arroz de Riego*** (FLAR) durante las generaciones segregantes F2 a F5; luego fue seleccionada y desarrollada por la fitomejoradora Ing. ***Yubiry Mujica*** en el programa de mejoramiento de la ***Asociación de Productores de Semilla Certificada de los Llanos Occidentales*** (APROSCELLO) con el apoyo de la ***Fundación Nacional del Arroz*** (FUNDARROZ).
 
 ![Suprema FL, durante la fase de desarrollo de variedades](AP009-8.jpeg "Desarrollo de variedades")
 
@@ -124,7 +125,7 @@ A continuación algunos tips generales que son de importancia en el control de m
 
 ### **Manejo de la fertilización**
 
-La fertilización es unas de las labores más importantes debido que está asociada al óptimo desarrollo del cultivo y a garantizar la mayor expresión del potencial de rendimiento del cultivo de arroz. Durante la etapa de desarrollo de la variedad ***SUPREMA FL***, nos esforzamos en obtener el patrón de extracción de nitrógeno, fósforo y potasio por vía indirecta. Esto quiere decir que las cantidades NPK extraidas por la variedad son estimaciones y que el un futuro cercano obtendremos los valores más precisos y, por su puesto, serán publicados oportunamente.
+La fertilización es unas de las labores más importantes debido que está asociada al óptimo desarrollo del cultivo y a garantizar la mayor expresión del potencial de rendimiento del cultivo de arroz. Durante el desarrollo de la variedad ***SUPREMA FL***, nos esforzamos en obtener el patrón de extracción de nitrógeno, fósforo y potasio por vía indirecta. Esto quiere decir que las cantidades NPK extraidas por la variedad son estimaciones y que el un futuro cercano obtendremos los valores más precisos y, por su puesto, serán publicados oportunamente.
 
 Recomendamos no improvisar en el diseño y la aplicación del plan de fertilización a fin de garantizar la mejor nutrición posible y lograr el uso eficiente de los fertilizante. La base para armar el plan es partir de un análisis de suelo que permita conocer sus propiedades físico-químicas, así mismo considerar la interacción entre la fecha de aplicación (momento oportuno), el tipo de nutriente o elemento a aplicar y las dosis por hectárea que se definan de todo este análisis.
 
@@ -137,8 +138,8 @@ Nos atrevemos a proponer una plan de fertilización de referencia tomando en cue
 | Elemento           | Cantidad kg/ha |
 |--------------------|:--------------:|
 | Nitrógeno (N)      |   160 a 180    |
-| Fósforo (P~2~O~5~) |    25 a 31     |
-| Potasio (K~2~O)    |   135 a 165    |
+| Fósforo (P2O5) |    25 a 31     |
+| Potasio (K2O)    |   135 a 165    |
 
 ------------------------------------------------------------------------
 
@@ -184,9 +185,9 @@ A continuación agregamos información complementaria sobre la fertilización:
 
 -   **Nitrógeno (N):** No aplicar menos de 160 unidades/ha; no perder de vista la relación 1:1 con el potasio (K).
 
--   **Fósforo (P):** el cultivar mostró que para alcanzar un rendimiento superior a las 8 toneladas/ha, requirió la absorción de 31 kg/ha de P~2~O~5~, en base a esta información se recomienda un promedio de 22 unidades/ha de P~2~O~5~, sin embargo, esta cantidad debe ser ajustada en función de la disponibilidad del elemento en el suelo.
+-   **Fósforo (P):** el cultivar mostró que para alcanzar un rendimiento superior a las 8 toneladas/ha, requirió la absorción de 31 kg/ha de P2O5, en base a esta información se recomienda un promedio de 22 unidades/ha de P2O5, sin embargo, esta cantidad debe ser ajustada en función de la disponibilidad del elemento en el suelo.
 
--   **Potasio (K):** este elemento está relacionado con la sanidad integral del cultivar, la producción de materia seca y su potencial de rendimiento. El patrón de extracción determinado indirectamente mostró que las mejores respuestas en rendimiento de grano se alcanzaron con enmiendas de entre los 115 y 122 kg/ha de K~2~O; resaltamos que se pondere su aplicación en base al análisis de suelo y la dinámica del elemento en su relación con el nitrógeno (N) y el magnesio (Mg).
+-   **Potasio (K):** este elemento está relacionado con la sanidad integral del cultivar, la producción de materia seca y su potencial de rendimiento. El patrón de extracción determinado indirectamente mostró que las mejores respuestas en rendimiento de grano se alcanzaron con enmiendas de entre los 115 y 122 kg/ha de K2O; resaltamos que se pondere su aplicación en base al análisis de suelo y la dinámica del elemento en su relación con el nitrógeno (N) y el magnesio (Mg).
 
 -   **Calcio, Magnesio y Azufre:** estos tres elementos juegan un importante papel dentro del desarrollo del cultivo y es importante considerar su enmienda para garantizar su equilibrio. Sin embargo, debemos que señalar que no ha sido posible determinar sus patrones de extracción, por lo que lo recomendado a continuación se basa en referencias de otros trabajos similares en arroz.
 
@@ -200,7 +201,7 @@ A continuación agregamos información complementaria sobre la fertilización:
 
 ### **Manejo de enfermedades**
 
-La variedad ***SUPREMA FL*** fue evaluada con el rigor necesario en diferentes ambientes para conocer su comportamiento frente a las enfermedades fungosas más importantes del país (ver el apartado *Reacción frente a plagas y enfermedades)*. Aun cuando su desempeño fue muy bueno frente a los patógenos más importantes, es necesario tener presente que ante las variaciones climáticas que se están presentando en los últimos años hay que estar atentos a las diferentes síntomas que se puedan presentar y recomendamos que durante los meses del año donde se registran constantes precipitaciones y altas temperaturas, se realice, bajo asesoría técnica, protecciones preventivas con fungicidas dirigidas a garantizar la sanidad integral de cultivo y en especial de las panículas, de esta manera se evitaría posibles brotes del complejo de patógenos responsable del manchado de granos.
+La variedad ***SUPREMA FL*** fue evaluada con el rigor necesario en diferentes ambientes para conocer su comportamiento frente a las enfermedades fungosas más importantes del país (ver el apartado *Reacción frente a plagas y enfermedades*). Aun cuando su desempeño fue muy bueno frente a los patógenos más importantes, es necesario tener presente que ante las variaciones climáticas que se están presentando en los últimos años hay que estar atentos a las diferentes síntomas que se puedan presentar y recomendamos que durante los meses del año donde se registran constantes precipitaciones y altas temperaturas, se realice, bajo asesoría técnica, protecciones preventivas con fungicidas dirigidas a garantizar la sanidad integral de cultivo y en especial de las panículas, de esta manera se evitaría posibles brotes del complejo de patógenos responsable del manchado de granos.
 
 ------------------------------------------------------------------------
 
@@ -210,7 +211,7 @@ La variedad ***SUPREMA FL*** fue evaluada con el rigor necesario en diferentes a
 
 ### **Manejo del riego**
 
-La variedad **SUPREMA** ***FL*** no demanda el establecimiento de láminas de agua por largos periodos de tiempo. Al igual las demás variedades que se comercializan en la actualidad, puede ser manejada con mojes en la fase vegetativa y solo durante las etapas correspondiente a la fase reproductiva recomendamos que se establezca la lámina para garantizar el normal desarrolla de las etapas de emergencia de panículas, floración, grano lechoso y grano pastoso. Estas etapas son críticas para definir un buen llenado y calidad de grano y debe evitarse el mínimo estrés hídrico, de lo contrario pudiera generase vaneamiento en el grano.
+La variedad **SUPREMA** ***FL*** no demanda el establecimiento de láminas de agua por largos periodos de tiempo. Al igual las demás variedades que se comercializan en la actualidad, puede ser manejada con el sistema de mojes en la fase vegetativa y solo durante las etapas correspondiente a la fase reproductiva recomendamos que se establezca la lámina para garantizar el normal desarrolla de la emergencia de panículas, la floración, grano lechoso y grano pastoso. Estas etapas son críticas para definir un buen llenado y calidad de grano y debe evitarse estrés hídrico, de lo contrario pudiera generase vaneamiento en el grano.
 
 ------------------------------------------------------------------------
 
