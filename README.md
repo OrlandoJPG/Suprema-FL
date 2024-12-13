@@ -230,17 +230,17 @@ Si tiene preguntas o dudas sobre la información de manejo de la ***SUPREMA FL**
 
     ... y con mucho gusto le atenderemos.
 
-::: {#logofinal .logos layout-ncol="2"}
-![Rif: J-08507040-0](logo.png){fig-align="center" width="119"}
+
+![Rif: J-08507040-0](logo.png)
 :::
 
-::: {#yuraima .investigador}
+
 **Ing. Yuraima Mendoza**
 
 *Fitomejoradora*
 :::
 
-::: {#orlando .investigador}
+
 **Ing. Msc. Orlando Pérez**
 
 *Gerentecia de Tecnología y Desarrollo*
