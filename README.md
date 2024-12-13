@@ -232,16 +232,16 @@ Si tiene preguntas o dudas sobre la información de manejo de la ***SUPREMA FL**
 
 
 ![Rif: J-08507040-0](logo.png)
-:::
+
 
 
 **Ing. Yuraima Mendoza**
 
 *Fitomejoradora*
-:::
+
 
 
 **Ing. Msc. Orlando Pérez**
 
 *Gerentecia de Tecnología y Desarrollo*
-:::
+
