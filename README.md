@@ -72,9 +72,9 @@ Fue obtenida en el ***Fondo Latinoamericano de Arroz de Riego*** (FLAR) durante 
 
 ### Características de la semilla
 
+
+| **Característica**         | **Descripción**   |
 +----------------------------+---------------+
-| **Característica**         | Descripción   |
-+============================+:=============:+
 | Longitud (mm)              | 9.0 - 11.0    |
 +----------------------------+---------------+
 | Ancho (mm)                 | 2.0 - 3.0     |
